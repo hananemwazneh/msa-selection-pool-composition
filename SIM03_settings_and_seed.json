@@ -1,0 +1,11 @@
+{
+  "family": "SIM03",
+  "seed": 104,
+  "root_len": 100,
+  "indel_rate": 0.025,
+  "submodel": "WAG",
+  "rates": "0 1.0 8",
+  "indelmodel": "POW 1.7 500",
+  "columns": 528,
+  "gap_fraction": 0.816
+}
