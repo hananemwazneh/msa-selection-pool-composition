@@ -1,4 +1,3 @@
-# msa-selection-pool-composition
 # Robustness of Deep-Learning MSA Selection to Candidate-Pool Composition
 
 Code and data for the CMPS 355 paper by Hanane Wazneh and Zahraa Hussein (AUB, 2026).
